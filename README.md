@@ -33,4 +33,4 @@ Do you want to be a part of our family and something awesome? 💙<br>
 
 ![Why join us](https://github.com/ConcordEurope/.github-profile/blob/main/something%20awesome.jpg)<br>
 
-Send us your resume to jobs@concordeu.com.
+Send us your resume to jobs@concordeu.com. 
