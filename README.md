@@ -1,6 +1,3 @@
-# .github-profile
-
-# .github-profile
 
 # Hi. We're [CONCORD Europe](https://www.concordeu.com/) 👋
 
