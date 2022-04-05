@@ -1,5 +1,5 @@
 
-# Hi. We're [CONCORD Europe](https://www.concordeu.com/) 👋
+# Hi. We're [CONCORD Europe](https://www.concordeu.com/) 👋 [hi](https://github.com/Concord-Europe/Concord-Europe/blob/main/Hand%20Wave.html)
 
 ![What we do](https://github.com/ConcordEurope/.github-profile/blob/main/what%20we%20do.jpg)
 
